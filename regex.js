@@ -8,4 +8,4 @@ PasswordValidation('MiContraseña1234');
 
 
 //GMAIL 
-//^(?!^\.)[a-zA-Z0-9]+(?:\.[a-zA-Z0-9]+)*@[a-z0-9]+\.[a-z]{2,}$
+//^(?!^\.)[a-zA-Z0-9]+(?:\.[a-zA-Z0-9]+)*@[a-z0-9]+\.([a-z]{2})$
